@@ -1,0 +1,18 @@
+PODS:
+  - Vendor_Klarna (2.7.3):
+    - Vendor_Klarna/basic (= 2.7.3)
+  - Vendor_Klarna/basic (2.7.3)
+
+DEPENDENCIES:
+  - Vendor_Klarna (from `../LocalKlarna`)
+
+EXTERNAL SOURCES:
+  Vendor_Klarna:
+    :path: "../LocalKlarna"
+
+SPEC CHECKSUMS:
+  Vendor_Klarna: c90d4a34f42afaf8f761000e8f2e0a853801673f
+
+PODFILE CHECKSUM: 786148fc3f705af737e68c7ec06b2d0e3dcd239e
+
+COCOAPODS: 1.16.2
